@@ -65,7 +65,11 @@
      } else if($(cubes[x]).children().hasClass(styles[x]+'3')) {
         $(cubes[x]).children().removeClass(styles[x]+'3').addClass(styles[x]+'4');
      } else if($(cubes[x]).children().hasClass(styles[x]+'4')) {
-        $(cubes[x]).children().removeClass(styles[x]+'4').addClass(styles[x]); 
+        $(cubes[x]).children().removeClass(styles[x]+'4').addClass(styles[x]+'5'); 
+     } else if($(cubes[x]).children().hasClass(styles[x]+'5')) {
+        $(cubes[x]).children().removeClass(styles[x]+'5').addClass(styles[x]+'6'); 
+     } else if($(cubes[x]).children().hasClass(styles[x]+'6')) {
+        $(cubes[x]).children().removeClass(styles[x]+'6').addClass(styles[x]); 
      };
   }
  

@@ -47,113 +47,122 @@ body {
 */
 
 .a{
-  background-image: url('../img/abundance1.jpg');
-  background-size: cover; 
-  background-position: 50% 0; 
+  background-image: url('../img/abundance13.jpg'); 
 }
 .b{
-  background-image: url('../img/selfhelp2.jpg');
-  background-size: cover; 
-  background-position: 50% 0;  
+  background-image: url('../img/selfhelp2.jpg');    
 }
 .c{
-  background-image: url('../img/abundance3.jpg');
-  background-size: cover; 
-  background-position: 50% 0;   
+  background-image: url('../img/abundance3.jpg');  
 }
 .d{
-  background-image: url('../img/abundance8.jpg');
-  background-size: cover; 
-  background-position: 50% 0;  
+  background-image: url('../img/success2.jpg');  
 }
 .e{
-  background-image: url('../img/donald.jpg'); 
-  background-size: cover;   
+  background-image: url('../img/affirmations1.jpg'); 
 }
 .f{
-  background-image: url('../img/goldshirt.jpg'); 
-  background-size: cover;   
+  background-image: url('../img/abundance5.jpg');  
 }
 .a2{ 
-  background-image: url('../img/moneymagnet2.jpg'); 
-  background-size: cover;   
+  background-image: url('../img/abundance1.jpg'); 
 }
 .b2{ 
-  background-image: url('../img/abundance10.jpg'); 
-  background-size: cover;   
-  background-position: 50% 0; 
+  background-image: url('../img/abundance10.jpg');    
 }
 .c2{ 
-  background-image: url('../img/abundance11.png'); 
-  background-size: cover;   
-  background-position: 50% 0;    
+  background-image: url('../img/rain12.jpg');    
 }
 .d2{ 
-  background-image: url('../img/abundance12.jpg'); 
-  background-size: cover;  
-  background-position: 50% 0; 
+  background-image: url('../img/abundance8.jpg'); 
 }
 .e2{ 
-  background-image: url('../img/abundance13.jpg'); 
-  background-size: cover;  
-  background-position: 50% 0;  
+  background-image: url('../img/rain13.jpg'); 
 }
 .f2{ 
-  background-image: url('../img/abundance7.jpg'); 
-  background-size: cover;   
-  background-position: 50% 0;
+  background-image: url('../img/abundance11.png');  
 }
 .a3{
-  background-image: url('../img/affirmations1.jpg'); 
-  background-size: cover; 
-  background-position: 50% 0; 
+  background-image: url('../img/goldshirt.jpg');  
 }
 .b3{
-  background-image: url('../img/richkids10.jpg'); 
-  background-size: cover; 
-  background-position: 50% 0;   
+  background-image: url('../img/richkids.jpg');    
 }
 .c3{ 
-  background-image: url('../img/iphone2.jpg'); 
-  background-size: cover;   
+  background-image: url('../img/donald.jpg');   
 }
 .d3{ 
-  background-image: url('../img/underwear3.jpg'); 
-  background-size: cover;   
+  background-image: url('../img/richkids10.jpg'); 
 }
 .e3{ 
-  background-image: url('../img/excuses.jpg'); 
-  background-size: cover;   
+  background-image: url('../img/onepercent.jpg');  
 }
 .f3{ 
-  background-image: url('../img/sony.jpg'); 
-  background-size: cover;   
+  background-image: url('../img/teeth1.jpg');   
 }
 .a4{ 
-  background-image: url('../img/strobe.gif'); 
-  background-size: cover;  
+  background-image: url('../img/paris.jpg');  
 }
 .b4{ 
-  background-image: url('../img/strobe.gif'); 
-  background-size: cover;   
+  background-image: url('../img/underwear4.jpg');    
 }
 .c4{ 
-  background-image: url('../img/strobe.gif'); 
-  background-size: cover;      
+  background-image: url('../img/underwear5.jpg');       
 }
 .d4{ 
-  background-image: url('../img/strobe.gif'); 
-  background-size: cover;  
+  background-image: url('../img/underwear3.jpg');  
 }
 .e4{ 
-  background-image: url('../img/strobe.gif'); 
-  background-size: cover;   
+  background-image: url('../img/crib.jpg');   
 }
 .f4{ 
-  background-image: url('../img/strobe.gif'); 
-  background-size: cover;   
+  background-image: url('../img/underwear1.jpg');   
+}
+.a5{ 
+  background-image: url('../img/strobe.gif');  
+}
+.b5{ 
+  background-image: url('../img/strobe.gif');   
+}
+.c5{ 
+  background-image: url('../img/strobe.gif');      
+}
+.d5{ 
+  background-image: url('../img/strobe.gif');  
+}
+.e5{ 
+  background-image: url('../img/strobe.gif');   
+}
+.f5{ 
+  background-image: url('../img/strobe.gif');   
+}
+.a6{ 
+  background-image: url('../img/op22.gif');   
+}
+.b6{ 
+  background-image: url('../img/op22.gif');   
+}
+.c6{ 
+  background-image: url('../img/op22.gif');      
+}
+.d6{ 
+  background-image: url('../img/op22.gif');  
+}
+.e6{ 
+  background-image: url('../img/op22.gif');    
+}
+.f6{ 
+  background-image: url('../img/op22.gif');   
 }
 
+.a,.b,.c,.d,.e,.f,
+.a2,.b2,.c2,.d2,.e2,.f2,
+.a3,.b3,.c3,.d3,.e3,.f3,
+.a4,.b4,.c4,.d4,.e4,.f4,
+.a5,.b5,.c5,.d5,.e5,.f5,
+.a6,.b6,.c6,.d6,.e6,.f6 {
+  background-size: cover;
+}
 /* ================================================================
    Fullscreen backgrounds
    ================================================================ 
@@ -181,15 +190,14 @@ body {
   background: url('../img/employment.jpg') repeat;
 }
 .bg14 {
-  background: url('../img/richkids07.jpg');
-  background-size: cover;
+  background: url('../img/cash.gif') repeat; 
 }
 
 .bg6, .bg7, .bg8, .bg10, .bg11, .bg12, .bg13 {
   background: transparent; 
 }
 
-#video7, #video8, #video6, #video10, #video11, #video12, #video13 {
+#video6, #video7, #video8, #video10, #video11, #video12, #video13 {
   position: fixed; 
   right: 0; 
   bottom: 0;
@@ -259,7 +267,17 @@ body {
     width: 80px;
     height: 80px;
   }
-
+  .spiritguide {
+    left: -50%;
+    bottom: -500px;
+  }
+  .spiritguide:hover,
+  .move-up { 
+    -webkit-transform: translate(0,-800px);
+    -o-transform: translate(0,-800px); 
+    -moz-transform: translate(0,-800px);
+    transform: translate(0,-800px);
+}
 
  
 }
