@@ -1,7 +1,9 @@
 .DS_Store
 config.yml
 history.lock
+notes.js
 *.mp4
 *.ogv
 *.webm
 *.mp3
+*.rtf
